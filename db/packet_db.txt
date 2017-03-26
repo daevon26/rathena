@@ -34,7 +34,7 @@
 // Client detection is faster when all clients use this version.
 // Version 23 is the latest Sakexe (above versions are for Renewal clients)
 //packet_db_ver: 46
-packet_db_ver: 30
+packet_db_ver: 45
 
 packet_ver: 5
 0x0064,55
